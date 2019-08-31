@@ -1,0 +1,3 @@
+[submodule "kickstarts_mirror"]
+	path = kickstarts_mirror
+	url = https://pagure.io/fedora-kickstarts.git 
